@@ -3,7 +3,7 @@ A Most Basic Example of `boost-python`
 
 The following example can be used by:
 
-python setup.py build_ext --inplace
+    python setup.py build_ext --inplace
 
 which will create the following `build/` directory and file:
     	
